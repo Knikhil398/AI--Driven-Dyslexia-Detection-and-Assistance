@@ -48,5 +48,4 @@ This web application corrects grammar and dyslexia-specific errors, provides pro
 - Database: MongoDB
 - Model: `dyslexia_model.pkl` trained on dyslexia-like writing patterns
 
-## 🧩 Folder Structure
 
