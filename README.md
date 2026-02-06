@@ -1,11 +1,11 @@
-🧠 Dyslexia Assistive Web App
+AI- Driven Dyslexia Detection and Assistance
 
 An AI-powered assistive tool designed to support individuals with dyslexia in reading, writing, speaking, and spelling. 
 This web application corrects grammar and dyslexia-specific errors, provides pronunciation support, and tracks user progress over time.
 
-✨ Features
+Features
 
-✅ Core Functionality
+Core Functionality
 - Grammar & Spell Correction
   Uses both standard grammar correction and a curated list of dyslexia-specific word corrections.
 
@@ -29,11 +29,11 @@ This web application corrects grammar and dyslexia-specific errors, provides pro
   - Fill-in-the-blank tasks
   - Multiple-choice questions
 
-📊 Machine Learning
-- Uses a TF-IDF + RandomForest model to detect dyslexia-like writing patterns
+Machine Learning
+- Uses a OCR text extraction model to extract text form handwritten notes 
 - Offers context-based paragraph generation using Gemini/GPT for reading practice
 
-🛠️ Tech Stack
+Tech Stack
 
 - Frontend: HTML (via Flask templates)
 - Backend: Python, Flask
